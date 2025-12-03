@@ -1,0 +1,12 @@
+42_training_image.zip
+42_training_label.zip
+train.zip
+datasets/
+datasets_preprocessed/
+.venv
+tools/__pycache__/
+# Ignore all .md files
+*.md
+
+# Except README.md
+!README.md
