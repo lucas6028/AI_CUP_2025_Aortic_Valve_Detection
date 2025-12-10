@@ -6,7 +6,7 @@
 
 **Public Leaderboard Best:** 0.976331 (Rank 1)
 
-本專案使用 YOLOv8 模型進行主動脈瓣的物件偵測。針對醫學影像資料不平衡的特性，我們實作了 BalancedBatchGenerator、Hard Negative Mining 以及多種 Fine-tuning 策略。
+本專案使用 YOLOv8 模型進行主動脈瓣的物件偵測。針對醫學影像資料不平衡的特性，我們實作了 BalancedBatchGenerator、Hard Negative Mining 以及 Fine-tuning 策略。
 
 -----
 
